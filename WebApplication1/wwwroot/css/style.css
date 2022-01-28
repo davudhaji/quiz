@@ -1,0 +1,165 @@
+body {
+  height: 1000px;
+}
+
+.nav-text {
+  padding-left: 5%;
+  color: white;
+  text-decoration: unset;
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+.nav-elem li a {
+  color: white;
+  font-size: 1.45rem;
+  font-weight: 450;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-right: 2.5rem;
+  padding-left: .5rem;
+}
+
+.bgImage .town-bg {
+  background-attachment: fixed;
+  width: 100%;
+}
+
+.bgImage h1 {
+  z-index: 10;
+  color: white;
+  font-weight: 600;
+  text-align: center !important;
+}
+
+.bgImage p {
+  color: white;
+  text-align: center !important;
+}
+
+.absol {
+  padding-left: 35%;
+  top: 40%;
+}
+
+.icon {
+  background-color: white;
+  border-radius: 50%;
+  padding: 16px 26px 16px;
+  color: #c57e7d;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+.iconPattern {
+  padding-left: 8%;
+  padding-top: 50px;
+}
+
+.townButton {
+  background-color: #3496d8;
+  font-size: 20px;
+  color: white;
+  border-radius: 30px;
+  padding: 10px 10px;
+  border-style: unset;
+  width: 150px;
+}
+
+.patternBu {
+  padding-top: 20px;
+  padding-left: 7%;
+}
+
+.imgTown {
+  height: auto;
+  width: auto;
+}
+
+.townh {
+  color: #3496d8;
+  font-size: 2.6rem;
+  font-weight: normal;
+  padding-bottom: 20px;
+}
+
+.pragT {
+  font-size: 20px;
+  color: gray;
+}
+
+.service div i {
+  color: #3496d8;
+  padding-left: 20%;
+  padding-bottom: 35px;
+  padding-top: 15px;
+}
+
+.service div h4 {
+  color: #3496d8;
+  padding: 5px 5px;
+}
+
+.service div p {
+  color: gray;
+}
+
+.workSecTit {
+  padding-top: 30px;
+  padding-bottom: 20px;
+  color: #3496d8;
+  text-align: center;
+}
+
+.workSecPar {
+  color: gray;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.owl-carousel .owl-item img {
+  display: block;
+  width: 88% !important;
+}
+
+.workiCour {
+  padding-bottom: 190px;
+}
+
+.footer {
+  background-image: url("/images/the-town-bg-02.jpg");
+  background-attachment: fixed;
+  background-position: center -219px;
+}
+
+.footer h1, .footer p, .footer i, .footer a, .footer label {
+  color: white;
+}
+
+.footer span {
+  text-decoration: none;
+}
+
+.footer a {
+  padding-bottom: 40px;
+}
+
+.btn-foot {
+  color: black;
+  background-color: white;
+  width: 140px;
+}
+
+.foot-inp {
+  border-color: white;
+}
+
+.copyry {
+  text-align: center;
+}
+
+.contacus {
+  padding-top: 50px;
+}
+/*# sourceMappingURL=style.css.map */
